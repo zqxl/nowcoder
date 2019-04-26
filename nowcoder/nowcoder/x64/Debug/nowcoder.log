@@ -1,0 +1,7 @@
+﻿  二维数组中的查找.cpp
+f:\myprojects2017\vs2013\nowcoder\nowcoder\nowcoder\二维数组中的查找.cpp(16): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\myprojects2017\vs2013\nowcoder\nowcoder\nowcoder\二维数组中的查找.cpp(19): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\myprojects2017\vs2013\nowcoder\nowcoder\nowcoder\二维数组中的查找.cpp(25): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
